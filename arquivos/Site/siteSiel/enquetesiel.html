@@ -1,0 +1,148 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <title>Site SIEL - enquete</title>
+  <link rel="stylesheet" href="style.css">
+
+  
+  <script src="js/jquery 1.5.1/jquery.min.js"></script>
+  <script src="js/slides.min.jquery.js"></script>
+	
+	<!--[if IE]>
+	<script type="text/javascript">
+	(function(){
+	var html5elmeents = "address|article|aside|audio|canvas|command|datalist|details|dialog|figure|figcaption|footer|header|hgroup|keygen|mark|meter|menu|nav|progress|ruby|section|time|video".split('|');
+	for(var i = 0; i < html5elmeents.length; i++){
+	document.createElement(html5elmeents[i]);
+	}
+	}
+	)();
+	</script>
+	<![endif]-->
+</head>
+
+<body>
+	<div id="header-wrap">
+		<header class="group">
+			<h2><a href="index.html" title="Siel">Siel</a></h2>
+		
+			<nav class="group">
+				<ul>
+					<li class="home"><a href="index.html" title="">Home</a></li>
+					<li><a href="noticias.html" title="">Notícias</a></li>
+					<li><a href="sobre.html" title="">Sobre o Projeto</a></li>
+					<li><a href="contato.html" title="">Contato</a></li>
+					<li class="last">
+						<div>
+							<!--alguma coisa aqui-->
+						</div>
+					</li>
+				</ul>
+			</nav>
+		</header>
+	</div><!-- end header wrap -->
+	
+	
+<div id="container">
+		<div id="slides">
+        <h1>Teste seus conhecimentos sobre lixo Eletrônico</h1><hr>
+        	<h2>Responda as perguntas</h2>
+            
+           <div id="flashContent" align="center">
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="620" height="463" id="enquete" align="middle">
+				<param name="movie" value="enquete.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#ffffff" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="window" />
+				<param name="scale" value="showall" />
+				<param name="menu" value="true" />
+				<param name="devicefont" value="false" />
+				<param name="salign" value="" />
+				<param name="allowScriptAccess" value="sameDomain" />
+				<!--[if !IE]>-->
+				<object type="application/x-shockwave-flash" data="enquete.swf" width="620" height="463">
+					<param name="movie" value="enquete.swf" />
+					<param name="quality" value="high" />
+					<param name="bgcolor" value="#ffffff" />
+					<param name="play" value="true" />
+					<param name="loop" value="true" />
+					<param name="wmode" value="window" />
+					<param name="scale" value="showall" />
+					<param name="menu" value="true" />
+					<param name="devicefont" value="false" />
+					<param name="salign" value="" />
+					<param name="allowScriptAccess" value="sameDomain" />
+				<!--<![endif]-->
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Obter Adobe Flash Player" />
+					</a>
+				<!--[if !IE]>-->
+				</object>
+				<!--<![endif]-->
+			</object>
+		</div>
+			
+				
+				
+			</div><!-- end slies container -->
+		</div><!-- end slides -->
+		
+		
+		
+	</div> <!--! end container -->
+	
+	<div id="widget-wrap" class="group">
+		<div id="widget">
+			<div id="links" class="group">
+				
+				<ul>
+					<li><a href="#">Sistema SIEL</a></li>
+                    <li><a href="sobre.html">Sobre o Projeto</a></li>
+					<li><a href="http://www.etecfernandopolis.com.br" target="_blank">Etec Fernandópolis</a></li>
+                    <li><a href="parceiros.html">Parceiros</a></li>
+				</ul>
+			</div>
+			
+			<div id="contact">
+				<h4 class="footer-header white">Sistema Integrado do E-Lixo<strong></strong></h4>
+				<img src="images/logofooter.png" alt="contato" />
+				<p class="title">Seja Sustentável!</p>
+			</div><!-- end contato -->
+
+		</div><!-- end widget -->
+	</div> <!--! end widget-wrap -->
+	
+	
+	
+	<footer class="group">
+		<div id="footer-left">
+			<p>© 2013 SIEL | Sistema Integrado do E-Lixo </br>
+			<a href="desenvolvedores.html" class="green">Desenvolvedores</a></p>
+		</div>
+			
+		<div id="footer-right">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="noticias.html">Notícias</a></li>
+				<li><a href="sobre.html">Sobre o Projeto</a></li>
+				<li><a href="contato.html">Contato</a></li>
+			</ul>
+		</div>
+				
+		<a href="#header-wrap"><img src="images/back-top.png" alt="back-top" class="back-top" title="voltar ao topo"/></a>		
+	</footer>
+	
+	
+<script>
+		$(function(){
+			$('#slides').slides({
+				preload: true,
+				generateNextPrev: true,	
+			});
+		});
+</script>
+
+</body>
+</html>

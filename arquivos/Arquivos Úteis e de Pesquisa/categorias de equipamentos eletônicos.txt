@@ -1,0 +1,37 @@
+Categorias de Equipamentos Elétricos e Eletrónicos:
+
+Categoria 1. Grandes Equipamentos
+Frigoríficos, máquinas de lavar e secar roupa, etc.
+Categoria 2. Pequenos Equipamentos
+Aspiradores, torradeiras, ferros de engomar, máquinas de café, etc.
+Categoria 3. Equipamentos Informáticos e de Telecomunicações
+Computadores, teclados, telemóveis, impressoras, copiadoras, etc.
+Categoria 4. Equipamentos de Consumo
+Aparelhos de rádio, televisores, leitores de MP3, câmaras de vídeo, instrumentos musicais, etc.
+Categoria 5. Equipamentos de Iluminação
+Lâmpadas fluorescentes, compactas, aparelhos de iluminação para lâmpadas fluorescentes, etc.
+Categoria 6. Ferramentas Elétricas e Eletrónicas
+Berbequins, ferramentas de jardinagens, etc.
+Categoria 7. Brinquedos e Equipamentos de Desporto e Lazer
+Comboios eléctricos, consolas de jogos, equipamentos desportivos elétricos, etc.
+Categoria 8. Aparelhos Médicos
+Medidores de tensão arterial, etc.
+Categoria 9. Instrumentos de Monitorização e Controlo
+Reguladores de aquecimento, detetores de fumo, termóstatos, etc.
+Categoria 10. Distribuidores Automáticos
+Máquinas de venda automática de bebidas e produtos alimentares, etc.
+
+
+
+
+- Placa mãe
+- Processador
+- Memoria ram
+- Disco Rigido (HD)
+- Placa de Video
+- Gabinete
+- Teclado
+- Mouse
+- Mouse pad
+- Caixa de Som
+- Monitor
